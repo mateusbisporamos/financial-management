@@ -4,7 +4,7 @@
 
 ![financial-management](https://user-images.githubusercontent.com/122778531/214002940-93a80c95-18e5-4559-a557-ef04b91c4d47.jpg)
 
-> Status: Developing ⚠️
+> Status: Completed ✅
 
 
 ## Aplication Functions ⚙️
@@ -12,10 +12,6 @@
 * Create operations ✔️
 * List operations ✔️
 * Delete operations ✔️
-
-## Future implementations ⚙️
-* Edit operations ...
-* Filter operations ...
 
 ## Technologies 💻
 * Javascript
