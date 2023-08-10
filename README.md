@@ -22,5 +22,5 @@
 
 ## What I learned 📚
 * ReactJS fundamentals
-* npm/yarn fundamentals use
-* Array and JSON data manipulation
+* npm/yarn fundamentals
+* array and JSON data manipulation
